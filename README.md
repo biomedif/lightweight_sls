@@ -1,3 +1,3 @@
-# lightweight_sls
+# Lightweight Encoder-Decoder Model for Automatic Skin Lesion Segmentation
 Lightweight SLS Research Repository
 - The repository is comming soon...
